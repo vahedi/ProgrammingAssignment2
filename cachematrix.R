@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+
+## R-Programming Course, Second Assignment
 
 ## First function
 
